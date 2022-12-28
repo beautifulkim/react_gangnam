@@ -1,0 +1,18 @@
+{
+    "title" : "공지사항",
+    "cls" : ["bg-dark","text-white"],
+    "content" : [
+        {
+            "subject" : "배송지연안내",
+            "contents" : "안녕하세요. 배송늦어욤"
+        },
+        {
+            "subject" : "크리스마스 잘 보내세욤",
+            "contents" : "메리메리"
+        },
+        {
+            "subject" : "연말에는 따뜻하게",
+            "contents" : "안녕하세요. 배송늦어욤2"
+        }
+    ]
+}
